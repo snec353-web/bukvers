@@ -1,0 +1,17 @@
+{
+  "name": "Букверс",
+  "short_name": "Букверс",
+  "description": "Сказки с именем ребёнка, истории с выбором, книги за 15 минут и текстовые сериалы.",
+  "lang": "ru",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#12152A",
+  "theme_color": "#12152A",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" },
+    { "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
